@@ -1,0 +1,3 @@
+<manifest package="plugin.sdk" xmlns:tools="http://schemas.android.com/tools">
+    <uses-sdk tools:overrideLibrary="spay.sdk"/>
+</manifest>

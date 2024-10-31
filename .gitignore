@@ -1,0 +1,19 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+*.lock
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+.dart_tool/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
